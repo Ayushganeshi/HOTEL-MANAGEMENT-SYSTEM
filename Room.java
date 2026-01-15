@@ -1,11 +1,11 @@
 
-package hotelmanagementsystem;
+// package hotelmanagementsystem;
 
-import java.awt.*;
-import javax.swing.*;
-import java.awt.event.*;
-import java.sql.*;
-import net.proteanit.sql.*;
+// import java.awt.*;
+// import javax.swing.*;
+// import java.awt.event.*;
+// import java.sql.*;
+// import net.proteanit.sql.*;
 
 public class Room extends JFrame implements ActionListener{
 
@@ -75,3 +75,4 @@ public class Room extends JFrame implements ActionListener{
         new Room();
     }
 }
+
