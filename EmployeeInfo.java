@@ -5,7 +5,7 @@ import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
 import java.sql.*;
-import net.proteanit.sql.*;
+import net.proteanit.sq.*;
 
 public class EmployeeInfo extends JFrame implements ActionListener{
 
@@ -87,3 +87,4 @@ public class EmployeeInfo extends JFrame implements ActionListener{
         new EmployeeInfo();
     }
 }
+
