@@ -1,11 +1,11 @@
 
-// package hotelmanagementsystem;
-// import java.awt.*;
-// import javax.swing.*;
-// import javax.swing.border.*;
-// import java.awt.event.*;
-// import java.sql.*;
-// import java.util.*;
+package hotelmanagementsystem;
+import java.awt.*;
+import javax.swing.*;
+import javax.swing.border.*;
+import java.awt.event.*;
+import java.sql.*;
+import java.util.*;
 
 public class AddDriver extends JFrame implements ActionListener{
 
@@ -173,5 +173,6 @@ public class AddDriver extends JFrame implements ActionListener{
 }
 
 }
+
 
 
