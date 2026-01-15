@@ -6,6 +6,8 @@ import java.awt.event.ActionEvent;
 import java.awt.*;
 import javax.swing.*;
 import java.sql.*;
+
+
 import java.util.Date;
 
 public class AddCustomer extends JFrame implements ActionListener {
@@ -192,3 +194,4 @@ public class AddCustomer extends JFrame implements ActionListener {
         new AddCustomer();
     }
 }
+
